@@ -1,0 +1,109 @@
+<html>
+
+       <head>
+
+<style>
+
+Body   {
+
+Font - family:   'Raleway',    sans-serif;
+
+Text-align:   center;
+
+Justify-content:   space-around;
+
+Height:  100%;
+
+Align-items:  center;
+
+Background:   linear-gradient (#E0B4F1,   WHITE,    #E5C6F1);
+
+}
+
+</style>
+
+</head>
+
+<body   align="center">
+
+<h1  style="text- align : center;"><u>My School</u></h1>
+
+<Img src="school.png"   alt="school"  width="260"  height="160">
+
+<h2>My Schools name is INDO SCOTS GLOBAL SCHOOL </h2>
+
+<p>My school was established in 2019<br>
+
+My school  have many branches across India <br>
+
+We have 2 practical labs and a big library
+
+<br>Our all teachers and staff is very friendly
+
+<br> "We Foster Confidence , Not Just Education" is our tagline</p>
+
+<h1> Gallery </h1>
+
+<img src="school1.png" alt="school1"  width="260"    height="160">
+
+<img src="school2.png" alt="school2"  width="260"    height="160">
+
+<img src="school3.png" alt="school3"  width="260"    height="160">
+
+</body>
+
+</html><html>
+
+       <head>
+
+<style>
+
+Body   {
+
+Font - family:   'Raleway',    sans-serif;
+
+Text-align:   center;
+
+Justify-content:   space-around;
+
+Height:  100%;
+
+Align-items:  center;
+
+Background:   linear-gradient (#E0B4F1,   WHITE,    #E5C6F1);
+
+}
+
+</style>
+
+</head>
+
+<body   align="center">
+
+<h1  style="text- align : center;"><u>My School</u></h1>
+
+<Img src="school.png"   alt="school"  width="260"  height="160">
+
+<h2>My Schools name is INDO SCOTS GLOBAL SCHOOL </h2>
+
+<p>My school was established in 2019<br>
+
+My school  have many branches across India <br>
+
+We have 2 practical labs and a big library
+
+<br>Our all teachers and staff is very friendly
+
+<br> "We Foster Confidence , Not Just Education" is our tagline</p>
+
+<h1> Gallery </h1>
+
+<img src="school1.png" alt="school1"  width="260"    height="160">
+
+<img src="school2.png" alt="school2"  width="260"    height="160">
+
+<img src="school3.png" alt="school3"  width="260"    height="160">
+
+</body>
+
+</html>
